@@ -1,0 +1,34 @@
+user
+  name
+  email
+  telephone
+  address
+
+Profile
+  contact info
+  phone
+  profile pic
+
+Role
+  name
+
+Chicken shop
+  name
+  address
+  telephone
+  ABN
+  menu
+
+Location
+  street
+  suburb
+  city
+
+Review
+  star rating
+  user name
+  chicken shop
+
+order
+  dishes
+  cost
